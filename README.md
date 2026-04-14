@@ -1,9 +1,8 @@
-# NukeIT
 # NukeIT — Instant Screen Reset for Windows
 
 NukeIT is a one-click panic button for your desktop.
 
-Launch NukeIT → click the floating anchor → instantly closes most open windows and replaces your screen with a clean, distraction-free display.
+Launch NukeIT → click the floating anchor → instantly closes most open applications...
 
 Press ESC → return to normal.
 
@@ -20,7 +19,7 @@ Press ESC → return to normal.
 3. Press ESC  
    → Exit SafeScreen and return to normal
 
-The anchor will automatically reappear, keeping NukeIT armed for the next use.
+The anchor will automatically reappear, keeping NukeIT armed and ready for the next use.
 
 ---
 
@@ -34,14 +33,14 @@ This places the floating **"N" anchor** on your screen.
 
 NukeIT is now armed and ready.
 
-To activate NukeIT, simply single click the "N" anchor. 
+Click the "N" anchor to activate NukeIT.
 
-The flow becomes: install → run → anchor appears → click to fire
+The flow becomes: download → run → anchor appears → click to activate
 
 ## ⚡ What it does
 
 - Instantly closes most active applications
-- Replaces your screen with a clean SafeScreen display
+- Replaces your screen with the SafeScreen display
 - Covers all monitors
 - Each monitor shows slightly different data (no obvious mirroring)
 - Runs fully local (no internet, no accounts)
@@ -64,11 +63,11 @@ NukeIT immediately closes most running applications.
 
 It does **not** restore them.
 
+Unsaved work will be lost.
+
 Use intentionally.
 
 ---
-
-No installer, no network access, runs fully local.
 
 ## 📥 Download
 
@@ -84,8 +83,7 @@ Click “More info” → “Run anyway”.
 - Some administrator-level (elevated) applications may not close  
 - Windows Explorer may remain open by design  
 
-NukeIT prioritizes closing standard application windows and browsers first.
-
+NukeIT prioritizes closing standard application windows and browsers first, which typically includes the most visible and active content.
 ---
 
 ## 🔒 Safety
@@ -94,6 +92,8 @@ NukeIT prioritizes closing standard application windows and browsers first.
 - No data collection
 - No background services
 - Runs entirely local
+
+**No installer. Runs fully local.**
 
 You can verify this in the source code.
 
