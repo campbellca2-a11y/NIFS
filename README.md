@@ -1,4 +1,5 @@
 # NukeIT — Instant Screen Reset for Windows
+(Previously referred to as “Nuke It From Space" and "NIFS” during development.)
 
 NukeIT is a one-click panic button for your desktop.
 
