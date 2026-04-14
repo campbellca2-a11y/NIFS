@@ -1,3 +1,6 @@
+This repository is archived. Active development moved to NukeIT as of 9:30am 04/14/2026
+
+
 # NukeIT — Instant Screen Reset for Windows
 (Previously referred to as “Nuke It From Space" and "NIFS” during development.)
 
